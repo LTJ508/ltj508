@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <a href="https://github.com/LTJ508?tab=achievements" title="GitHub Achievements">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ltj508&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="LTJ508" />
     </a>
 </div>
