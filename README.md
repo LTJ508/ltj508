@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   
 </div>
 
-- 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently learning **ML, Python Libraries**
+- 🔭 I’m currently working on **Quantum Computing**
+- 🌱 I’m currently learning **ML, Python Libraries, Quantum Computing**
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
