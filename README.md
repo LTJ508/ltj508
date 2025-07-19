@@ -101,8 +101,8 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,html,java,mysql,py,vscode&perline=14" />
-    <!--    git,aws,bootstrap,css,discord,docker,dynamodb,express,figma,firebase,,idea,js,kotlin,linux,md,materialui,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts-->
+    <img src="https://skillicons.dev/icons?i=c,cpp,github,html,java,mysql,py,vscode,git,mongodb&perline=14" />
+    <!--    ,aws,bootstrap,css,discord,docker,dynamodb,express,figma,firebase,,idea,js,kotlin,linux,md,materialui,,nextjs,nodejs,postman,react,redux,tailwind,ts-->
   </a>
 </p>
 
