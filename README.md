@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 ### About Me
-Currently working as an Intern at MySoft Ltd. as an Oracle Web App Developer.
+Currently working as an Intern at MySoft Ltd. as an Oracle Web App Developer.<br>
 🎓 CSE Graduate from North South University  
 💻 Passionate about Quantum Computing & Web Development  
 🚀 Currently exploring advanced concepts in **Quantum Algorithms & Oracle APEX**  
