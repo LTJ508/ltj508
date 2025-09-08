@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">CSE Student at North South University</h2></summary>
+    <summary><h2 style="display: inline-block">CSE Graduate from North South University</h2></summary>
   </ul>
 </div>
 
@@ -40,8 +40,12 @@ Here are some ideas to get you started:
   
 </div>
 
-- 🔭 I’m currently working on **Quantum Computing**
-- 🌱 I’m currently learning **ML, Python Libraries, Quantum Computing**
+### About Me
+Currently working as an Intern at MySoft Ltd. as an Oracle Web App Developer.
+🎓 CSE Graduate from North South University  
+💻 Passionate about Quantum Computing & Web Development  
+🚀 Currently exploring advanced concepts in **Quantum Algorithms & Oracle APEX**  
+🌐 Open to collaborations in **Machine Learning, Quantum Computing, and Web Development** 
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
