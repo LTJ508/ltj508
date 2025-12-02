@@ -105,8 +105,8 @@ Currently working as an Intern at MySoft Ltd. as an Oracle Web App Developer.<br
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,html,java,mysql,py,vscode,git,mongodb&perline=14" />
-    <!--    ,aws,bootstrap,css,discord,docker,dynamodb,express,figma,firebase,,idea,js,kotlin,linux,md,materialui,,nextjs,nodejs,postman,react,redux,tailwind,ts-->
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,github,html,java,mysql,py,vscode,git,mongodb&perline=14" />
+    <!--    ,aws,bootstrap,css,discord,docker,dynamodb,express,figma,firebase,idea,js,kotlin,linux,md,materialui,,nextjs,nodejs,postman,react,redux,tailwind,ts-->
   </a>
 </p>
 
